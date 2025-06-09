@@ -113,4 +113,8 @@ Fique à vontade para me chamar para colaborações, projetos open source ou ape
 
 ---
 
-![snake gif](https://github.com/RyanBuenoFernandes/RyanBuenoFernandes/blob/output/github-contribution-grid-snake.gif)
+<div align-center>
+
+  <img src="https://raw.githubusercontent.com/RyanBuenoFernandes/RyanBuenoFernandes/output/snake.svg" alt="Snake animation" />
+  
+</div>
