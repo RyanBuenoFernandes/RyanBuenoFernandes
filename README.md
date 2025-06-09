@@ -112,3 +112,5 @@ Atualmente, foco meus estudos em projetos com Inteligência Artificial, aplicand
 Fique à vontade para me chamar para colaborações, projetos open source ou apenas trocar uma ideia sobre tecnologia!
 
 ---
+
+![snake gif](https://github.com/RyanBuenoFernandes/RyanBuenoFernandes/blob/output/github-contribution-grid-snake.gif)
